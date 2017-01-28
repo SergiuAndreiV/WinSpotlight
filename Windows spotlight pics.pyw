@@ -3,7 +3,6 @@ import os
 import sys
 
 
-
 # user of the current session
 user_profile = os.environ.get("USERPROFILE")
 
